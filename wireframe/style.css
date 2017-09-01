@@ -1,0 +1,190 @@
+nav {
+	background-color: lightgrey;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+footer {
+	background-color: black;
+    width: 100%;
+    height: 10%;
+    padding: 20px;
+    text-align: center;
+}
+
+div.home {
+	background-color: grey;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    min-height: 30%;
+}
+
+div.home-text {
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+}
+
+
+div.intro{
+text-align: center;
+
+}
+
+a {
+    color: #333;
+	text-decoration: none;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.floating-box1 {
+    display: inline-block;
+    width: 50%;
+    height: 20%;
+    margin: 10px;
+    background-color: white;
+}
+
+.floating-box2 {
+    display: inline-block;
+    width: 45%;
+    height: 20%;
+    margin: 10px;
+}
+
+.floating-box3 {
+    display: inline-block;
+    width: 70%;
+    height: 50%;
+    margin: 10px;
+}
+
+.floating-box4 {
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    margin: 10px;
+}
+
+.floating-box5 {
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    margin: 10px;
+}
+
+.floating-box6 {
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    margin: 10px;
+}
+
+
+div.cirkel {
+    padding: 50px 50px; 
+    background: #dddddd;
+    width: 5px;
+    border-radius: 100px;
+    float: left;
+    margin-left: 75px;
+    margin-top: 45px;
+}
+
+div.blok1 {
+	background-color: #e1e1e1;
+	width: 120%;
+    height: 90%;
+    margin: 10px;
+
+}
+
+div.blok2 {
+	background-color: #e1e1e1;
+	width: 20%;
+    height: 20%;
+    margin: 10px;
+   margin-left: 200px;
+   
+
+}
+div.blok3 {
+	background-color: #e1e1e1;
+	width: 20%;
+    height: 20%;
+    margin: 10px;
+    margin-left: 200px;
+
+}
+div.blok4 {
+	background-color: #e1e1e1;
+	width: 20%;
+    height: 20%;
+    margin: 10px;
+    margin-left: 200px;
+}
+div.blok5 {
+	background-color: #e1e1e1;
+	width: 20%;
+    height: 20%;
+    margin: 10px;
+   margin-left: 200px;
+}
+
+div.blok6 {
+	background-color: #e1e1e1;
+	width: 175%;
+    height: 90%;
+    margin: 10px;
+ margin-left: 300px;
+}
+
+div.blok7 {
+	background-color: #e1e1e1;
+	width: 175%;
+    height: 20%;
+    margin: 10px;
+   margin-right: 200px;
+   
+
+}div.blok8 {
+	background-color: #e1e1e1;
+	width: 175%;
+    height: 20%;
+    margin: 10px;
+    margin-right: 200px;
+
+}
+div.blok9 {
+	background-color: #e1e1e1;
+	width: 175%;
+    height: 20%;
+    margin: 10px;
+margin-right: 200px;
+}
+div.blok10 {
+	background-color: #e1e1e1;
+	width: 175%;
+    height: 20%;
+    margin: 10px;
+   margin-right: 200px;
+}
+
+div.blok11 {
+	background-color: black;
+	width: 20%;
+    height: 5%;
+    margin: 20px;
+   margin-left: 950px;
+   margin-bottom: 150px;
+}
+
+
+
