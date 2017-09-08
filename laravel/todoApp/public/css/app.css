@@ -1,0 +1,97 @@
+.todoApp {
+	width: 100%;
+	height: 200px;
+	
+}
+
+.todoList {
+	width: 15%;
+	height: 300%;
+	background: #FDF3E7;
+	margin-top: 1%;
+	padding: 50px 50px;
+    display: inline-block;
+    float: left;
+    max-height: 300%;
+    border-radius: 25px;
+     overflow: scroll;
+     max-height: 300%;
+}
+
+.finishedList {
+	width: 15%;
+	height: 300%;
+	background: #FDF3E7;
+	margin-top: 1%;
+	padding: 50px 50px;
+    display: inline-block;
+    float: center;
+    margin-left: 190px;
+    border-radius: 25px;
+     overflow: scroll;
+     max-height: 300%;
+}
+
+.makeList {
+	width: 15%;
+	height: 300%;
+	background: #FDF3E7;
+	margin-top: 1%;
+	padding: 50px 50px;
+    display: inline-block;
+    float: right;
+    border-radius: 25px;
+}
+
+.addTask {
+
+width: 100%;
+
+
+}
+
+.addComment {
+
+	width: 100%;
+	height: 100px;
+
+
+
+}
+
+
+
+.colorBox-todo{
+
+	background-color: #ff0645;
+	width: 100%;
+	height: 120px;
+	border-radius: 25px;
+	text-align: center;
+
+
+
+
+
+}
+
+.colorBox-finished{
+
+	background-color: #349948;
+	width: 100%;
+	height: 120px;
+	border-radius: 25px;
+	text-align: center;
+
+
+
+
+}
+
+
+
+
+body {
+  background-color: #C63D0F;
+}
+
